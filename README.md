@@ -43,7 +43,7 @@ Final result:
 
 `[8, 11, 12, 16, 21, 22]`
 
-## 🔹 Big-O Notation
+# Big-O Notation
 
 Merge Sort always divides the array into halves (`log n`)  
 and merges all elements in each level (`n`).
