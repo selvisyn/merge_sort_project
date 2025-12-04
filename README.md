@@ -4,7 +4,7 @@ Merge Sort algorithm implementation with analysis.
 # Given Array
 `[16, 21, 11, 8, 12, 22]`
 
-## 🔹 Merge Sort Steps
+# Merge Sort Steps
 
 # Divide Phase
 The array is recursively divided into smaller subarrays:
@@ -57,11 +57,5 @@ Therefore:
 # Overall Time Complexity:  
 `O(n log n)`
 
-
-
-## Summary
-This project demonstrates the Merge Sort algorithm by showing:  
-- Recursive divide steps  
-- Merge operations  
 - Final sorted output  
 - Big-O complexity analysis
