@@ -57,5 +57,3 @@ Therefore:
 # Overall Time Complexity:  
 `O(n log n)`
 
-- Final sorted output  
-- Big-O complexity analysis
